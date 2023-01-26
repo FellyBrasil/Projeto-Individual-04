@@ -2,6 +2,7 @@
 
 1-Existem outras entidades além dessas três?
 {{{Sim, além das entidades apresentadas (cursos, turmas e alunos), foi possivel adicionar mais 3 entidades, sendo elas:}}}
+
 *Matrículas.
 *Professores.
 *Facilitadores. 
